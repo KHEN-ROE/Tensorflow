@@ -1,3 +1,4 @@
+# 텐서값 초기화
 import tensorflow as tf
 
 a = tf.zeros(shape = (2, 3)) # dtype = tf.float32

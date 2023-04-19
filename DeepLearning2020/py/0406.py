@@ -1,3 +1,4 @@
+#스킵
 import tensorflow as tf
 #1
 A = tf.constant([[0, 1],

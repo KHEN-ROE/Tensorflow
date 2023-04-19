@@ -1,3 +1,4 @@
+# 경사하강법
 import tensorflow as tf
 import numpy as np
 import matplotlib.pyplot as plt
@@ -13,7 +14,7 @@ def fprime(x): # forward difference
 #2
 k = 0
 max_iters = 1000
-lr = 0.001 
+lr = 0.001 #learning rate - 학습률
 tol = 1e-5
 
 x_old = 0.0

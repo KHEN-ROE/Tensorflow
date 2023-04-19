@@ -1,3 +1,4 @@
+# 스킵
 import tensorflow as tf
 
 a= tf.fill([2, 3], 2.0)

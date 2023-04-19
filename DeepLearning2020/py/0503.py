@@ -1,3 +1,4 @@
+# tf.keras.losses.MeanSquaredError() 사용하여 mse 계사
 import numpy as np
 import tensorflow as tf
 

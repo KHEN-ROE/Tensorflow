@@ -1,3 +1,4 @@
+#스킵
 import tensorflow as tf
 #1
 a = tf.constant([1, 2, 3], dtype=tf.float32)
