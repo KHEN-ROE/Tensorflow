@@ -3,7 +3,7 @@ import numpy as np
 #1
 ##y_true = np.array([0, 1, 2, 0, 1, 2])
 ##y_true = tf.keras.utils.to_categorical(y_true) # one-hot
-y_true = np.array([[1, 0, 0], #0
+y_true = np.array([[1, 0, 0], #0 - argmax() 리턴 값
                    [0, 1, 0], #1
                    [0, 0, 1], #2
                    [1, 0, 0], #0
